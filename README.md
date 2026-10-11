@@ -4,6 +4,8 @@ Static site from the HTML prototype. Deploy the `public/` directory to Cloudflar
 
 All external page assets are in `public/assets/`.
 
+Live site: https://lab-post-train-agents.pages.dev/
+
 To publish updates:
 
 ```sh
